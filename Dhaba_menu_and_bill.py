@@ -36,6 +36,7 @@ elif(Size=="L"):
         Peporoni=30
     if(Chez=="Y"):
         Cheese=10
+#calculate all values
 Total=Pizza + Peporoni + Cheese
 print("Your Total Bill is :" , Total)
 print("-------------------------------------------------------")
